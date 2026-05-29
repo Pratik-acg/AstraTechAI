@@ -30,3 +30,4 @@ console.log(arr);
 //[6] slice
 const newArr = arr.slice(1, 3);
 console.log(newArr);
+
